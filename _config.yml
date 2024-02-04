@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A New Lens on Software and Cutting-Edge Technologies"
+title                    : "TechFront: Innovations in Software, IoT and more"
 title_separator          : "-"
-subtitle                 : "Blended Human Expertise with AI" # site tagline that appears below site title in masthead
+subtitle                 : "Bridging Practicality and Innovation through Tech" # site tagline that appears below site title in masthead
 name                     : "Nils Jannasch"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Nils Jannasch"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Python loving Solutions Architect"
+  bio              : "As a Solutions Architect with a passion for IoT, Cloud Security, DevOps and Software Engineering, my journey in technology is driven by relentless curiosity and a desire to explore new frontiers. Through my blog, I delve into the world of innovative software solutions, sharing my experiences and insights, and remaining committed to pushing the boundaries of what's possible."
   location         : "Europe"
   email            :
   links:
